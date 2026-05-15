@@ -48,7 +48,7 @@ diabetes-prediction/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/sruthijakke/giap project.git
+git clone https://github.com/sruthijakke/giapproject.git
 cd diabetes-prediction
 ```
 
