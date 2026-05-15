@@ -1,2 +1,2 @@
-# GIAPProject
+# GIAP Project
 GIAP Project
